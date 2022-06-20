@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="yoga.css">
+<title>Path of Light Yoga Studio :: Classes</title>
+<meta charset="utf-8">
+<h1>Path of Light Yoga Studio</h1>
+</head>
+<nav>
+  <a href=index.html>Home</a> &nbsp; <a href=classes.html>Classes</a> &nbsp; <a href=schedule.html>Schedule</a> &nbsp; <a href=contact.html>Contact</a>
+</nav>
+<main>
+  <h2>Yoga Classes</h2>
+  <p><strong><dt>Gentle Hatha Yoga</dt></strong>
+  <dd>A 60 minute class of poses and slow movement that focuses on asana (proper alignment and posture), 
+pranayama (breath work), and guided meditation to foster your mind and body connection. 
+This class is intended for beginners and anyone wishing a grounded foundation in the practice of yoga.</dd>
+  <strong><dt>Vinyasa Yoga</dt></strong>
+  <dd>A 60 minute class that focuses on breath-synchronized movement — you will inhale and exhale as you 
+flow energetically through yoga poses. While intended for intermediate to advanced students, 
+beginners are welcome to join in this class.</dd>
+  <strong><dt>Restorative Yoga</dt></strong>
+  <dd>A 90 minute class that features very slow movement and long poses. 
+Restorative yoga is useful in relieving stress and fostering a sense of well-being. 
+This calming, restorative experience is suitable for students of any level of experience.</dd></p>
+<footer>
+  Copyright &copy; 2020 Path of Light Yoga Studio<br>
+  <a href="mailto:help@andrewhage.net">help@andrewhage.net</a>
+</footer>
+</main>
+</html>
